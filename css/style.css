@@ -27,5 +27,5 @@ h2 {
 }
 
 img:hover{
-	background-color: #696969;
+	transition: width 1s  height 1s ;
 }
